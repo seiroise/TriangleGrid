@@ -237,7 +237,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 351bea4af3df41e45b94664458b73dd2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  part: {fileID: 467003387319252609, guid: 783bff097f909ba42b4deeb2047a83f5, type: 3}
+  part: {fileID: 8269926683287210620, guid: 783bff097f909ba42b4deeb2047a83f5, type: 3}
   stride: 0.8660256
-  xNum: 10
-  yNum: 10
+  xMin: -10
+  xMax: 10
+  yMin: -10
+  yMax: 10
