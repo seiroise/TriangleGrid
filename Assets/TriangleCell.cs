@@ -15,4 +15,9 @@ public sealed class TriangleCell : MonoBehaviour
     {
         return transform.position + transform.rotation * dirToCenter * size * 0.5f;
     }
+
+	public void Snap(float size)
+	{
+
+	}
 }
